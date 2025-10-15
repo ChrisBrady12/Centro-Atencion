@@ -14,7 +14,7 @@
 }
 /* Título y enlace */
 .container h1 {
-  color: aliceblue;
+  color: #1191d0;
   padding: 15px;
   font-size: 27px;
 }
@@ -89,4 +89,5 @@
 
 #a {
   color: #ec0081;
+
 }
